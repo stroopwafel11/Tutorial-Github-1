@@ -87,7 +87,7 @@ In this final step, it’s time to bring your changes together – merging your 
 2. Click **Confirm merge**.
 3. Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box.
  
- 
+ ![Deletebranch](image/t4.png)
  
 ### Celebrate!
 By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub! :tada: :octocat: :zap:  
