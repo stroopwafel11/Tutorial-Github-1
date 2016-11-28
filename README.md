@@ -15,6 +15,5 @@ Your hello-world repository can be a place where you store ideas, resources, or 
 4. Select Initialize this repository with a README.
 
 ![GitHub Logo](fcdcb6ad8453ab6e6817eacd8faa4336.png)
-Format: ![Alt Text](url)
 
 Click Create repository.
