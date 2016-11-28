@@ -75,8 +75,8 @@ Step | Screenshot
 Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button. | ![commitchanges](image/pr-tab.gif)
 Select the branch you made, readme-edits, to compare with master (the original). |  ![commitchanges](image/pick-branch.png)
 Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | ![commitchanges](image/diff.png)
-When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. | ![commitchanges](image/t2.png)
-Give your pull request a title and write a brief description of your changes. | ![commitchanges](image/t2.png)
+When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. | ![commitchanges](image/create-pr.png)
+Give your pull request a title and write a brief description of your changes. | ![commitchanges](image/pr-form.png)
 When you’re done with your message, click **Create pull request!**
 > **Tip**: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
 
