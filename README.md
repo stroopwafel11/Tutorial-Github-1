@@ -5,12 +5,12 @@ Made by: Bryant van den Berg, Rune Daanen
 ## Step 1. Create a Repository
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
 
-Your hello-world repository can be a place where you store ideas, resources, or even share and discuss things with others.
+Your `hello-world` repository can be a place where you store ideas, resources, or even share and discuss things with others.
 
 ## To create a new repository
 
 1. In the upper right corner, next to your avatar or identicon, click  and then select New repository.
-2. Name your repository hello-world.
+2. Name your repository `hello-world`.
 3. Write a short description.
 4. Select Initialize this repository with a README.
 
@@ -25,9 +25,9 @@ This diagram shows:
 * A new branch called feature (because we’re doing ‘feature work’ on this branch)
 * The journey that feature takes before it’s merged into master 
 
-## Have you ever saved different versions of a file? Something like:
-story.txt
-story-joe-edit.txt
-story-joe-edit-reviewed.txt
+Have you ever saved different versions of a file? Something like:
+* `story.txt`
+* `story-joe-edit.txt`
+* `story-joe-edit-reviewed.txt`
 Branches accomplish similar goals in GitHub repositories.
-Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our master (production) branch. When a change is ready, they merge their branch into master.
+Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our `master` (production) branch. When a change is ready, they merge their branch into `master`.
