@@ -48,8 +48,7 @@ Bravo! Now, you’re on the code view for your `readme-edits` branch, which is a
 
 On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
 ### Make and commit changes1. Click the `README.md` file.
-2. Click the  pencil icon in the upper right corner of the file view to edit.
-3. In the editor, write a bit about yourself.
+2. Click the  pencil icon in the upper right corner of the file view to edit.3. In the editor, write a bit about yourself.
 4. Write a commit message that describes your changes.
 5. Click **Commit changes** button.
 
@@ -89,7 +88,7 @@ In this final step, it’s time to bring your changes together – merging your 
  
  
 ### Celebrate!
-By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!   
+By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub! :tada: :octocat: :zap:  
 
 Here’s what you accomplished in this tutorial:
 * Created an open source repository
