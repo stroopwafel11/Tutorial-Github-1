@@ -19,7 +19,7 @@ Branching is the way to work on different versions of a repository at one time.
 By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`.
 When you create a branch off the `master` branch, you’re making a copy, or snapshot, of `master` as it was at that point in time. If someone else made changes to the `master` branch while you were working on your branch, you could pull in those updates.
 This diagram shows:
-* The `master` branch
+#* The `master` branch
 * A new branch called feature (because we’re doing ‘feature work’ on this branch)
 * The journey that feature takes before it’s merged into master 
 
@@ -68,21 +68,21 @@ As soon as you make a commit, you can open a pull request and start a discussion
 By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
 
 You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
-**Open a Pull Request for changes to the README**
+### **Open a Pull Request for changes to the README**
 *Click on the image for a larger version*
 
-Step
-Screenshot
-Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
+Step | Screenshot
+---- | ----------
+Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button. | ![commitchanges](image/t2.png)
 
-Select the branch you made, readme-edits, to compare with master (the original).
+Select the branch you made, readme-edits, to compare with master (the original). | ![commitchanges](image/t2.png)
 
-Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.
+Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | ![commitchanges](image/t2.png)
 
-When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
+When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. | ![commitchanges](image/t2.png)
 
-Give your pull request a title and write a brief description of your changes.
+Give your pull request a title and write a brief description of your changes. | ![commitchanges](image/t2.png)
 
-When you’re done with your message, click Create pull request!
+When you’re done with your message, click Create pull request! | ![commitchanges](image/t2.png)
 
-Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
+Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests. |
