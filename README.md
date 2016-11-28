@@ -9,10 +9,10 @@ Your hello-world repository can be a place where you store ideas, resources, or 
 
 ## To create a new repository
 
-In the upper right corner, next to your avatar or identicon, click  and then select New repository.
-Name your repository hello-world.
-Write a short description.
-Select Initialize this repository with a README.
-new-repo-form
+1. In the upper right corner, next to your avatar or identicon, click  and then select New repository.
+2. Name your repository hello-world.
+3. Write a short description.
+4. Select Initialize this repository with a README.
+5. new-repo-form
 
 Click Create repository. :tada:
