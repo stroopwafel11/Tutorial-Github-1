@@ -1,4 +1,3 @@
-
 # Tutorial-Github
 Made by: Bryant van den Berg, Rune Daanen
 
@@ -27,7 +26,7 @@ A new branch called feature (because we’re doing ‘feature work’ on this br
 The journey that feature takes before it’s merged into master 
 
 ## Have you ever saved different versions of a file? Something like:
-story.txt
+> story.txt
 story-joe-edit.txt
 story-joe-edit-reviewed.txt
 Branches accomplish similar goals in GitHub repositories.
