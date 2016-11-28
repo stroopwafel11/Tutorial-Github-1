@@ -12,7 +12,7 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 3. Write a short description.
 4. Select **Initialize this repository with a README**.
 
-![GitHub Logo](fcdcb6ad8453ab6e6817eacd8faa4336.png)
+![GitHub Logo](image/fcdcb6ad8453ab6e6817eacd8faa4336.png)
 
 # Step 2. Create a Branch
 Branching is the way to work on different versions of a repository at one time.
@@ -23,7 +23,7 @@ This diagram shows:
 * A new branch called feature (because we’re doing ‘feature work’ on this branch)
 * The journey that feature takes before it’s merged into master 
 
-![GitHub Logo](branching.png)
+![GitHub Logo](image/branching.png)
 
 Have you ever saved different versions of a file? Something like:
 * `story.txt`
@@ -40,7 +40,7 @@ Here at GitHub, our developers, writers, and designers use branches for keeping 
 3. Type a branch name, readme-edits, into the new branch text box.
 4. Select the blue **Create branch** box or hit “Enter” on your keyboard.
 
-![Newbranch](t2.png)
+![Newbranch](image/t2.png)
 
 Now you have two branches, `master` and `readme-edits`. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
@@ -54,6 +54,8 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 3. In the editor, write a bit about yourself.
 4. Write a commit message that describes your changes.
 5. Click **Commit changes** button.
+
+![commitchanges](image/t3.png)
 
 These changes will be made to just the README file on your `readme-edits` branch, so now this branch contains content that’s different from `master`.
 
