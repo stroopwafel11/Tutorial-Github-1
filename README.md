@@ -17,9 +17,8 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 # Step 2. Create a Branch
 Branching is the way to work on different versions of a repository at one time.
 By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`.
-When you create a branch off the `master` branch, you’re making a copy, or snapshot, of `master` as it was at that point in time. If someone else made changes to the `master` branch while you were working on your branch, you could pull in those updates.
-This diagram shows:
->#* The `master` branch
+When you create a branch off the `master` branch, you’re making a copy, or snapshot, of `master` as it was at that point in time. If someone else made changes to the `master` branch while you were working on your branch, you could pull in those updates.This diagram shows:
+* The `master` branch
 * A new branch called feature (because we’re doing ‘feature work’ on this branch)
 * The journey that feature takes before it’s merged into master 
 
@@ -48,8 +47,7 @@ Now you have two branches, `master` and `readme-edits`. They look exactly the sa
 Bravo! Now, you’re on the code view for your `readme-edits` branch, which is a copy of `master`. Let’s make some edits.
 
 On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
-### Make and commit changes
-1. Click the `README.md` file.
+### Make and commit changes1. Click the `README.md` file.
 2. Click the  pencil icon in the upper right corner of the file view to edit.
 3. In the editor, write a bit about yourself.
 4. Write a commit message that describes your changes.
@@ -79,4 +77,27 @@ Look over your changes in the diffs on the Compare page, make sure they’re wha
 When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. | ![commitchanges](image/t2.png)
 Give your pull request a title and write a brief description of your changes. | ![commitchanges](image/t2.png)
 When you’re done with your message, click **Create pull request!**
-> **Tip**: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.<
+> **Tip**: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
+
+## Step 5. Merge your Pull Request
+In this final step, it’s time to bring your changes together – merging your `readme-edits branch` into the `master` branch.
+
+1. Click the green **Merge pull request** button to merge the changes into `master`.
+2. Click **Confirm merge**.
+3. Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box.
+ 
+ 
+ 
+### Celebrate!
+By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!   
+Here’s what you accomplished in this tutorial:
+* Created an open source repository
+* Started and managed a new branch
+* Changed a file and committed those changes to GitHub
+* Opened and merged a Pull Request
+
+Take a look at your GitHub profile and you’ll see your new contribution squares!
+
+If you want to learn more about the power of Pull Requests, we recommend reading the GitHub Flow Guide. You might also visit GitHub Explore and get involved in an Open Source project 
+
+> Tip: Check out our other Guides and YouTube Channel for more GitHub how-tos.
