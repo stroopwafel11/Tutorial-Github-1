@@ -5,7 +5,6 @@ Made by: Bryant van den Berg, Rune Daanen
 A **repository** is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a *README*, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
 
 Your `hello-world` repository can be a place where you store ideas, resources, or even share and discuss things with others.
-
 ## To create a new repository
 
 1. In the upper right corner, next to your avatar or identicon, click  and then select **New repository**.
@@ -15,7 +14,7 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 ![GitHub Logo](fcdcb6ad8453ab6e6817eacd8faa4336.png)
 
-## Step 2. Create a Branch
+# Step 2. Create a Branch
 Branching is the way to work on different versions of a repository at one time.
 By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`.
 When you create a branch off the `master` branch, you’re making a copy, or snapshot, of `master` as it was at that point in time. If someone else made changes to the `master` branch while you were working on your branch, you could pull in those updates.
@@ -25,7 +24,7 @@ This diagram shows:
 * The journey that feature takes before it’s merged into master 
 
 ![GitHub Logo](fcdcb6ad8453ab6e6817eacd8faa4336.png)
-
+#
 Have you ever saved different versions of a file? Something like:
 * `story.txt`
 * `story-joe-edit.txt`
@@ -55,3 +54,27 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 5. Click **Commit changes** button.
 
 These changes will be made to just the README file on your `readme-edits` branch, so now this branch contains content that’s different from `master`.
+
+## Step 4. Open a Pull Request
+Nice edits! Now that you have changes in a branch off of `master`, you can open a *pull* request.
+Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
+You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
+Open a Pull Request for changes to the README
+Click on the image for a larger version
+Step
+Screenshot
+Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
+
+Select the branch you made, readme-edits, to compare with master (the original).
+
+Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.
+
+When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.
+
+Give your pull request a title and write a brief description of your changes.
+
+When you’re done with your message, click Create pull request!
+
+Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.
