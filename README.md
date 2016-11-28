@@ -23,8 +23,8 @@ This diagram shows:
 * A new branch called feature (because we’re doing ‘feature work’ on this branch)
 * The journey that feature takes before it’s merged into master 
 
-![GitHub Logo](fcdcb6ad8453ab6e6817eacd8faa4336.png)
-#
+![GitHub Logo](branching.png)
+
 Have you ever saved different versions of a file? Something like:
 * `story.txt`
 * `story-joe-edit.txt`
@@ -39,6 +39,8 @@ Here at GitHub, our developers, writers, and designers use branches for keeping 
 2. Click the drop down at the top of the file list that says **branch: master**.
 3. Type a branch name, readme-edits, into the new branch text box.
 4. Select the blue **Create branch** box or hit “Enter” on your keyboard.
+
+![Newbranch](t2.png)
 
 Now you have two branches, `master` and `readme-edits`. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
 
