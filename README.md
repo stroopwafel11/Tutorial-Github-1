@@ -19,7 +19,7 @@ Branching is the way to work on different versions of a repository at one time.
 By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`.
 When you create a branch off the `master` branch, you’re making a copy, or snapshot, of `master` as it was at that point in time. If someone else made changes to the `master` branch while you were working on your branch, you could pull in those updates.
 This diagram shows:
-#* The `master` branch
+>#* The `master` branch
 * A new branch called feature (because we’re doing ‘feature work’ on this branch)
 * The journey that feature takes before it’s merged into master 
 
@@ -78,5 +78,5 @@ Select the branch you made, readme-edits, to compare with master (the original).
 Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. | ![commitchanges](image/t2.png)
 When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button. | ![commitchanges](image/t2.png)
 Give your pull request a title and write a brief description of your changes. | ![commitchanges](image/t2.png)
-When you’re done with your message, click Create pull request! | ![commitchanges](image/t2.png)
-Tip: You can use emoji and drag and drop images and gifs onto comments and Pull Requests. |
+When you’re done with your message, click **Create pull request!**
+> **Tip**: You can use emoji and drag and drop images and gifs onto comments and Pull Requests.<
