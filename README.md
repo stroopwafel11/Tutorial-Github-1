@@ -90,6 +90,7 @@ In this final step, it’s time to bring your changes together – merging your 
  
 ### Celebrate!
 By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!   
+
 Here’s what you accomplished in this tutorial:
 * Created an open source repository
 * Started and managed a new branch
