@@ -14,6 +14,8 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
 ![GitHub Logo](image/fcdcb6ad8453ab6e6817eacd8faa4336.png)
 
+Click **Create repository** :tada:
+
 # Step 2. Create a Branch
 Branching is the way to work on different versions of a repository at one time.
 By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`.
@@ -98,6 +100,6 @@ Here’s what you accomplished in this tutorial:
 
 Take a look at your GitHub profile and you’ll see your new contribution squares!
 
-If you want to learn more about the power of Pull Requests, we recommend reading the GitHub Flow Guide. You might also visit GitHub Explore and get involved in an Open Source project 
+If you want to learn more about the power of Pull Requests, we recommend reading the GitHub Flow Guide. You might also visit GitHub Explore and get involved in an Open Source project :octocat: 
 
 > Tip: Check out our other Guides and YouTube Channel for more GitHub how-tos.
